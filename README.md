@@ -23,7 +23,7 @@ Thanks for being here. My name is **Huyen**—and if Vietnamese names feel trick
 
 ### 📫 How to reach me: 
 - Email pnth1912@gmail.com
-- Linkedin https://www.linkedin.com/in/huyen-pham-611321234/
+- Linkedin https://www.linkedin.com/in/huyen-pham-freya/
 
 <!--
 **pnth1912/pnth1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
