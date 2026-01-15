@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Thanks for being here. My name is **Huyen**—and if Vietnamese names feel tricky, you’re more than welcome to call me **Freya**.
+Thanks for being here. My name is **Huyen**—and if Vietnamese pronunciation is a bit tricky for you, you’re more than welcome to call me **Freya**.
 
 🌱I usually analyse data using the following tools:
 - **SQL**
