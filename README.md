@@ -10,6 +10,7 @@ Thanks for being here. My name is **Huyen**—and if Vietnamese names feel trick
 - **BI Tools**
   - Power BI
   - Looker Studio\
+ 
 *I have plans to revamp my **R** skills in the upcoming projects, will be there soon* 
 
 💬In addition to the list above, I’ve also worked with the following tools:
