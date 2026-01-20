@@ -20,6 +20,8 @@ Thanks for being here. My name is **Huyen**—and if Vietnamese pronunciation is
 - **Diagramming:** draw.io
 - **Process Modeling:** Lucidchart, Signavio (BPMN standard)
 
+**PROJECT**
+- Kaggle patient dataset: https://github.com/pnth1912/kaggle_patient_journey
 
 ### 📫 How to reach me: 
 - Email pnth1912@gmail.com
