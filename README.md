@@ -21,7 +21,8 @@ Thanks for being here. My name is **Huyen**—and if Vietnamese pronunciation is
 - **Process Modeling:** Lucidchart, Signavio (BPMN standard)
 
 **PROJECT**
-- Kaggle patient dataset: [Kaggle hospital data](https://github.com/pnth1912/kaggle_hospital_data)
+- Kaggle patient PowerBI dashboard: [Kaggle hospital data](https://github.com/pnth1912/kaggle_hospital_data)
+- Kaggle perishable goods forecast and dashboard: [Kaggle perishable goods](https://github.com/pnth1912/perishable-goods.git)
 
 ### 📫 How to reach me: 
 - Email pnth1912@gmail.com
