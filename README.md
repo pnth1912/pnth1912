@@ -9,7 +9,7 @@ Thanks for being here. My name is **Huyen**—and if Vietnamese pronunciation is
   - Data analytics libraries: pandas, NumPy, matplotlib, seaborn, SQLAlchemy, sckit-learn
 - **BI Tools**
   - Power BI
-  - Looker Studio\
+  - Looker Studio
  
 *I have plans to revamp my **R** skills in the upcoming projects, will be there soon* 
 
