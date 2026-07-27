@@ -24,7 +24,7 @@ Thanks for being here. My name is **Huyen**—and if Vietnamese pronunciation is
 - Kaggle patient PowerBI dashboard: [Kaggle hospital data](https://github.com/pnth1912/kaggle_hospital_data)
 - Kaggle perishable goods forecast and dashboard:
     - Python coding: [Kaggle perishable goods](https://github.com/pnth1912/perishable-goods.git)
-    - Metabase Dashboard: [Perishable Dashboard](http://localhost:3000/public/dashboard/ecaa4e81-9b88-414e-9f04-346d49725d1a) and Analysis [Perishable Dashboard Analysis](http://localhost:3000/public/document/f4e6d3d5-5810-411f-8cfd-a829d9339657)
+    - Metabase Dashboard: [Perishable Inventory Dashboard](http://localhost:3000/public/dashboard/ecaa4e81-9b88-414e-9f04-346d49725d1a) and Analysis [Perishable Inventory Dashboard Analysis](http://localhost:3000/public/document/f4e6d3d5-5810-411f-8cfd-a829d9339657)
 
 ### 📫 How to reach me: 
 - Email pnth1912@gmail.com
