@@ -9,7 +9,7 @@ Thanks for being here. My name is **Huyen**—and if Vietnamese pronunciation is
   - Data analytics libraries: pandas, NumPy, matplotlib, seaborn, SQLAlchemy, sckit-learn
 - **BI Tools**
   - Power BI
-  - Looker Studio
+  - Metabase
  
 *I have plans to revamp my **R** skills in the upcoming projects, will be there soon* 
 
@@ -22,7 +22,9 @@ Thanks for being here. My name is **Huyen**—and if Vietnamese pronunciation is
 
 **PROJECT**
 - Kaggle patient PowerBI dashboard: [Kaggle hospital data](https://github.com/pnth1912/kaggle_hospital_data)
-- Kaggle perishable goods forecast and dashboard: [Kaggle perishable goods](https://github.com/pnth1912/perishable-goods.git)
+- Kaggle perishable goods forecast and dashboard:
+    - Python coding: [Kaggle perishable goods](https://github.com/pnth1912/perishable-goods.git)
+    - Metabase Dashboard: [Perishable Dashboard](http://localhost:3000/public/dashboard/ecaa4e81-9b88-414e-9f04-346d49725d1a) and Analysis [Perishable Dashboard Analysis](http://localhost:3000/public/document/f4e6d3d5-5810-411f-8cfd-a829d9339657)
 
 ### 📫 How to reach me: 
 - Email pnth1912@gmail.com
